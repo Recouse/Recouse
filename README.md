@@ -1,28 +1,13 @@
-### Hi there 👋
+```
+    __  ___  ________                   __
+   / / / (_)/_  __/ /_  ___  ________  / /
+  / /_/ / /  / / / __ \/ _ \/ ___/ _ \/ / 
+ / __  / /  / / / / / /  __/ /  /  __/_/  
+/_/ /_/_/  /_/ /_/ /_/\___/_/   \___(_)   
+```
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Recouse&show_icons=true&custom_title=My+GitHub+Stats&theme=dark&disable_animations=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Recouse&show_icons=true&custom_title=My+GitHub+Stats&theme=graywhite"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Recouse&show_icons=true&custom_title=My+GitHub+Stats&theme=graywhite" />
-</picture>
+#### About me
+I'm an iOS Developer
 
-<!--
-**Recouse/Recouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Check out my apps
+* [Mottie](https://apps.apple.com/app/id6743446238) – Lottie player for macOS
