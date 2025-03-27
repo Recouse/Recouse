@@ -6,8 +6,8 @@
 /_/ /_/_/  /_/ /_/ /_/\___/_/   \___(_)   
 ```
 
-#### About me
+#### 👨‍💻 About me
 I'm an iOS Developer
 
-#### Check out my apps
+#### 🌱 Check out my apps
 * [Mottie](https://apps.apple.com/app/apple-store/id6743446238?pt=120474400&ct=github.com&mt=8) – Lottie player for macOS
