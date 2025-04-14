@@ -10,4 +10,4 @@
 I'm an iOS Developer
 
 #### 🌱 Check out my apps
-* [Mottie](https://recouse.me/apps/mottie/) – Lottie player for macOS
+* [Mottie](https://recouse.me/apps/mottie/?ref=github.com) – Lottie player for macOS
